@@ -1,9 +1,4 @@
 #EXTM3U
 
-#EXTINF: -1 Southpark 24/7 = "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/08/12/16603249975433.jpg" MX:Southpark 24/7 
-
-https://www.southpark.lat/random-episode
-
-#EXTINF: -1, Simpsons 24/7 = "https://phantom-marca-mx.unidadeditorial.es/ffeff3ef853e9423d49ea385b2b5984b/resize/828/f/jpg/mx/assets/multimedia/imagenes/2023/04/20/16819466901183.jpg" MX:Simpsons 24/7 
-
-https://www.simpsonizados.cyou/simpsonizados.online/?redirect_to=random
+#EXTINF:-1,USA | 24/7 SOUTHPARK HD SERIES
+http://cableking-iptv.com:8000/live/francesco/francesco/18461.ts
